@@ -82,7 +82,6 @@ Below are sample screenshots of the application's functionality:
 
 
 ### **Search Functionality**
-![image](https://github.com/user-attachments/assets/b0bb52bb-9ff6-427d-a277-bf0a414daf20)
 ![image](https://github.com/user-attachments/assets/4e62254e-173e-4a24-a88f-617d6b6fd10e)
 
 
