@@ -15,16 +15,18 @@ This project is a simple dictionary application that allows users to register, l
   ```bash
   pip install pyodbc
 
-#Database Setup
+# Database Setup
 
-#Running the Project
+# Running the Project
 
 Run the following command to use the console version:
 
 python app.py
 
 
-##GUI Application
+## GUI Application
+
+To launch the GUI version:
 
 python app_gui.py
 
