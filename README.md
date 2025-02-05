@@ -74,13 +74,17 @@ DictionaryProject/
 Below are sample screenshots of the application's functionality:
 
 ### **User Registration**
-*(Screenshot here)*
+![image](https://github.com/user-attachments/assets/055ae438-2f05-486f-b668-38e3bf379b9b)
+
 
 ### **Word Addition**
-*(Screenshot here)*
+![image](https://github.com/user-attachments/assets/82e394a5-f387-486c-86cb-85dada90865a)
+
 
 ### **Search Functionality**
-*(Screenshot here)*
+![image](https://github.com/user-attachments/assets/b0bb52bb-9ff6-427d-a277-bf0a414daf20)
+![image](https://github.com/user-attachments/assets/4e62254e-173e-4a24-a88f-617d6b6fd10e)
+
 
 Ensure that the application connects to the database and performs operations as expected.
 
