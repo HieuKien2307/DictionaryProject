@@ -31,7 +31,8 @@ Ensure that your database is properly configured and that the required tables (`
 
 Below is the ERD showcasing the structure and relationships between the tables:
 
-![Database ERD](path-to-erd-image.png)
+![image](https://github.com/user-attachments/assets/c421da56-dc75-4cdb-b6e2-6f8a7e7f16f2)
+
 
 - **Users Table:** Stores user information such as username and password.
 - **Words Table:** Stores dictionary words and their definitions.
